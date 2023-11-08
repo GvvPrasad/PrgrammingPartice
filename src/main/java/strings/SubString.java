@@ -3,7 +3,6 @@ package strings;
 public class SubString {
 
 	// A part of String is called substring
-
 	public static void main(String[] args) {
 		subString();
 		split();
